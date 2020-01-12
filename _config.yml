@@ -7,7 +7,7 @@
 
 # Site settings
 title: 吴顺全的个人专栏
-brief-intro: 测控专业的CS
+brief-intro: 测控专业正在学习CS
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://Jeason22.github.io" # the base hostname & protocol for your site
 
