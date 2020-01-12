@@ -41,7 +41,6 @@
     * [6. 发布到 GitHub](#6-发布到-github)
 * [捐助 donate](#捐助-donate)
 * [Update Log](#update-log)
-* [License](#license)
 
 ## 预览图
 
@@ -328,6 +327,4 @@ Configuration file: E:/GitWorkSpace/blog/_config.yml
 * 2017.05.16 收到 张驰 ¥6.00
 * 2017.05.03 收到 希成 ¥6.66
 
-## License
 
-[MIT License](https://github.com/Gaohaoyang/gaohaoyang.github.io/blob/master/LICENSE.md)
